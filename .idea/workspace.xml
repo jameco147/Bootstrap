@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="columnas_alineadas_horizontalmente.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Grid/columnas_alineadas_horizontalmente.html">
+      <file leaf-file-name="offseting.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Grid/offseting.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="603">
-              <caret line="36" column="13" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="36" selection-end-column="13" />
+              <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -44,6 +44,7 @@
         <option value="$PROJECT_DIR$/Grid/columnas_automaticas.html" />
         <option value="$PROJECT_DIR$/Grid/columnas_alineadas_verticalmente.html" />
         <option value="$PROJECT_DIR$/Grid/columnas_alineadas_horizontalmente.html" />
+        <option value="$PROJECT_DIR$/Grid/offseting.html" />
       </list>
     </option>
   </component>
@@ -119,12 +120,12 @@
       <workItem from="1527783053602" duration="2000" />
       <workItem from="1527783375666" duration="1187000" />
       <workItem from="1527866585790" duration="1574000" />
-      <workItem from="1527869451039" duration="2730000" />
+      <workItem from="1527869451039" duration="4292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9953000" />
+    <option name="totallyTimeSpent" value="11515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="1" width="1696" height="1026" extended-state="6" />
@@ -267,8 +268,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Grid/columnas_alineadas_horizontalmente.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grid/offseting.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="603">
-          <caret line="36" column="13" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="36" selection-end-column="13" />
+          <caret line="39" column="14" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
         </state>
       </provider>
     </entry>
