@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="230dcd24-c3f9-4338-b663-3b96cf2f7dcd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="230dcd24-c3f9-4338-b663-3b96cf2f7dcd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tipografia2.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tipografia2.html">
+      <file leaf-file-name="bloques_codigo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bloques_codigo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+            <state relative-caret-position="420">
+              <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+              <folding>
+                <element signature="e#444#448#0" expanded="true" />
+                <element signature="e#459#463#0" expanded="true" />
+                <element signature="e#463#467#0" expanded="true" />
+                <element signature="e#478#482#0" expanded="true" />
+                <element signature="e#699#703#0" expanded="true" />
+                <element signature="e#685#689#0" expanded="true" />
+                <element signature="e#715#719#0" expanded="true" />
+                <element signature="e#722#726#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +73,7 @@
         <option value="$PROJECT_DIR$/practicas/grid/grid.html" />
         <option value="$PROJECT_DIR$/tipografia.html" />
         <option value="$PROJECT_DIR$/tipografia2.html" />
+        <option value="$PROJECT_DIR$/bloques_codigo.html" />
       </list>
     </option>
   </component>
@@ -140,12 +149,12 @@
       <workItem from="1527935174350" duration="4396000" />
       <workItem from="1527947873622" duration="1628000" />
       <workItem from="1527953657761" duration="2168000" />
-      <workItem from="1528039685950" duration="2843000" />
+      <workItem from="1528039685950" duration="4549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24666000" />
+    <option name="totallyTimeSpent" value="26372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="1" width="1696" height="1026" extended-state="6" />
@@ -364,17 +373,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tipografia.html">
+    <entry file="file://$PROJECT_DIR$/tipografia2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="846">
+          <caret line="71" column="52" selection-start-line="71" selection-start-column="52" selection-end-line="71" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tipografia2.html">
+    <entry file="file://$PROJECT_DIR$/tipografia.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="72" column="30" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+        <state relative-caret-position="180">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bloques_codigo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          <folding>
+            <element signature="e#444#448#0" expanded="true" />
+            <element signature="e#459#463#0" expanded="true" />
+            <element signature="e#463#467#0" expanded="true" />
+            <element signature="e#478#482#0" expanded="true" />
+            <element signature="e#699#703#0" expanded="true" />
+            <element signature="e#685#689#0" expanded="true" />
+            <element signature="e#715#719#0" expanded="true" />
+            <element signature="e#722#726#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
