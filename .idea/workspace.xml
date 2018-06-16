@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="230dcd24-c3f9-4338-b663-3b96cf2f7dcd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicas/comentarios/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practicas/comentarios/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,21 +16,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practicas/comentarios/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="alertas.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alertas.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="estilos.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practicas/comentarios/css/estilos.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="743">
-              <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+            <state relative-caret-position="463">
+              <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
+              <folding>
+                <element signature="e#2909#2916#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -81,6 +76,7 @@
         <option value="$PROJECT_DIR$/media_object.html" />
         <option value="$PROJECT_DIR$/practicas/comentarios/css/estilos.css" />
         <option value="$PROJECT_DIR$/practicas/comentarios/index.html" />
+        <option value="$PROJECT_DIR$/alertas.html" />
       </list>
     </option>
   </component>
@@ -111,24 +107,6 @@
             <path>
               <item name="Curso_Bootstrap" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso_Bootstrap" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Curso_Bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Curso_Bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="practicas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Curso_Bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Curso_Bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="practicas" type="462c0819:PsiDirectoryNode" />
-              <item name="comentarios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Curso_Bootstrap" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Curso_Bootstrap" type="462c0819:PsiDirectoryNode" />
-              <item name="practicas" type="462c0819:PsiDirectoryNode" />
-              <item name="comentarios" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,12 +154,13 @@
       <workItem from="1527953657761" duration="2168000" />
       <workItem from="1528039685950" duration="7623000" />
       <workItem from="1528649860254" duration="3829000" />
-      <workItem from="1528820181143" duration="3622000" />
+      <workItem from="1528820181143" duration="4282000" />
+      <workItem from="1529170451755" duration="1651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36897000" />
+    <option name="totallyTimeSpent" value="39208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="1" width="1696" height="1026" extended-state="6" />
@@ -213,6 +192,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/practicas/comentarios/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicas/comentarios/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/imagenes.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
@@ -443,6 +436,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/practicas/comentarios/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practicas/comentarios/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/plantilla.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -450,17 +457,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practicas/comentarios/css/estilos.css">
+    <entry file="file://$PROJECT_DIR$/alertas.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practicas/comentarios/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="463">
+          <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
+          <folding>
+            <element signature="e#2909#2916#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
