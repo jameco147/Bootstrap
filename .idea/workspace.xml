@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="230dcd24-c3f9-4338-b663-3b96cf2f7dcd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practicas/comentarios/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/practicas/comentarios/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="230dcd24-c3f9-4338-b663-3b96cf2f7dcd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,14 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="alertas.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/alertas.html">
+      <file leaf-file-name="insignias.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/insignias.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
-              <folding>
-                <element signature="e#2909#2916#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="723">
+              <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -77,6 +71,7 @@
         <option value="$PROJECT_DIR$/practicas/comentarios/css/estilos.css" />
         <option value="$PROJECT_DIR$/practicas/comentarios/index.html" />
         <option value="$PROJECT_DIR$/alertas.html" />
+        <option value="$PROJECT_DIR$/insignias.html" />
       </list>
     </option>
   </component>
@@ -155,12 +150,12 @@
       <workItem from="1528039685950" duration="7623000" />
       <workItem from="1528649860254" duration="3829000" />
       <workItem from="1528820181143" duration="4282000" />
-      <workItem from="1529170451755" duration="1651000" />
+      <workItem from="1529170451755" duration="2702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39208000" />
+    <option name="totallyTimeSpent" value="40259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="1" width="1696" height="1026" extended-state="6" />
@@ -450,6 +445,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/alertas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="74" column="44" selection-start-line="74" selection-start-column="44" selection-end-line="74" selection-end-column="44" />
+          <folding>
+            <element signature="e#2909#2916#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/plantilla.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -457,13 +462,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alertas.html">
+    <entry file="file://$PROJECT_DIR$/insignias.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="60" column="49" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
-          <folding>
-            <element signature="e#2909#2916#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="723">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
         </state>
       </provider>
     </entry>
