@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="230dcd24-c3f9-4338-b663-3b96cf2f7dcd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/dropdown.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formularios/formularios.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,26 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dropdown.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dropdown.html">
+      <file leaf-file-name="plantilla.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plantilla.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state>
+              <caret selection-end-line="18" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plantilla.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plantilla.html">
+      <file leaf-file-name="formularios.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/formularios/formularios.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="7" lean-forward="true" selection-end-line="18" selection-end-column="7" />
+            <state relative-caret-position="480">
+              <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -99,6 +92,7 @@
         <option value="$PROJECT_DIR$/carousel.html" />
         <option value="$PROJECT_DIR$/collapse.html" />
         <option value="$PROJECT_DIR$/dropdown.html" />
+        <option value="$PROJECT_DIR$/formularios/formularios.html" />
       </list>
     </option>
   </component>
@@ -129,6 +123,11 @@
             <path>
               <item name="Curso_Bootstrap" type="b2602c69:ProjectViewProjectNode" />
               <item name="Curso_Bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Curso_Bootstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Curso_Bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="formularios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,7 +181,7 @@
       <workItem from="1530207012130" duration="1514000" />
       <workItem from="1530373413591" duration="4047000" />
       <workItem from="1530723427225" duration="3810000" />
-      <workItem from="1531154425991" duration="3139000" />
+      <workItem from="1531154425991" duration="4752000" />
     </task>
     <task id="LOCAL-00001" summary="Carousel">
       <created>1530725418338</created>
@@ -198,11 +197,25 @@
       <option name="project" value="LOCAL" />
       <updated>1530727122326</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dropdown">
+      <created>1531157664409</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531157664409</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Formularios">
+      <created>1531159258342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531159258342</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57301000" />
+    <option name="totallyTimeSpent" value="58914000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1688" y="1" width="1696" height="1026" extended-state="6" />
@@ -236,16 +249,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Carousel" />
     <MESSAGE value="Collapse" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collapse" />
+    <MESSAGE value="Dropdown" />
+    <MESSAGE value="Formularios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formularios" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/insignias.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practicas/comentarios/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -577,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plantilla.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="7" lean-forward="true" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dropdown.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -594,6 +595,20 @@
             <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plantilla.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formularios/formularios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
         </state>
       </provider>
     </entry>
