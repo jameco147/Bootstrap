@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="230dcd24-c3f9-4338-b663-3b96cf2f7dcd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/formularios/checkbox_radios.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/formularios/custom_forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formularios/cuadros_ayuda.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formularios/variantes_input.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,26 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="checkbox_radios.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/formularios/checkbox_radios.html">
+      <file leaf-file-name="inline-forms.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formularios/inline-forms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="65" column="60" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="60" />
-              <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state>
+              <caret selection-end-line="32" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="custom_forms.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/formularios/custom_forms.html">
+      <file leaf-file-name="cuadros_ayuda.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/formularios/cuadros_ayuda.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="600">
+              <caret line="30" column="50" selection-start-line="10" selection-start-column="4" selection-end-line="30" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -108,6 +102,8 @@
         <option value="$PROJECT_DIR$/formularios/checkbox_radios.html" />
         <option value="$PROJECT_DIR$/custom_forms.html" />
         <option value="$PROJECT_DIR$/formularios/custom_forms.html" />
+        <option value="$PROJECT_DIR$/formularios/variantes_input.html" />
+        <option value="$PROJECT_DIR$/formularios/cuadros_ayuda.html" />
       </list>
     </option>
   </component>
@@ -248,17 +244,24 @@
       <option name="project" value="LOCAL" />
       <updated>1532164332901</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Continuación formularios">
+      <created>1532166728560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532166728560</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69244000" />
+    <option name="totallyTimeSpent" value="70957000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1688" y="1" width="1696" height="1026" extended-state="7" />
+    <frame x="-1688" y="1" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18455972" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18455972" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -301,23 +304,10 @@
     <MESSAGE value="Formularios" />
     <MESSAGE value="Cambios formulario" />
     <MESSAGE value="Merge branch 'master' of https://github.com/jameco147/Bootstrap&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/jameco147/Bootstrap&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Continuación formularios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continuación formularios" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Grid/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Grid/columnas_alineadas_verticalmente.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -626,13 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/formularios/inline-forms.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="30" column="50" selection-end-line="32" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/formularios/checkbox_radios.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -650,6 +633,30 @@
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formularios/variantes_input.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="55" column="83" selection-start-line="55" selection-start-column="83" selection-end-line="55" selection-end-column="83" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formularios/inline-forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formularios/cuadros_ayuda.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="50" selection-start-line="10" selection-start-column="4" selection-end-line="30" selection-end-column="50" />
         </state>
       </provider>
     </entry>
