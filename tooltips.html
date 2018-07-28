@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <title>Tooltips</title>
+</head>
+<body>
+
+<div class="container">
+    <div class="row mt-5">
+        <div class="col">
+            <p>Lorem ipsum <a href="" data-toggle="tooltip" data-placement="top" title="Tooltip en elace">dolor sit amet</a>,
+                consectetur adipisicing elit. Aliquam aut beatae, dolor enim eveniet id
+                pariatur repudiandae sequi tempora veniam. Accusamus adipisci aliquid fuga molestiae nostrum officia,
+                possimus <a href="" data-toggle="tooltip" data-placement="top" title="www.google.com">aquia repudiandae!</a>
+            </p>
+
+            <button class="btn btn-primary" data-toggle="tooltip" data-placement="top" title="Tooltip en botón">
+                Botón
+            </button>
+        </div>
+    </div>
+</div>
+
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+<script>
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip();
+    })
+</script>
+</body>
+</html>
